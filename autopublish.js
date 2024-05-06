@@ -58,7 +58,7 @@ function publishWithDelay() {
       return;
     }
     const delay = generateRandomDelay();
-    console.log(`Publish selanjutnya ${delay / 1000} detik`);
+    console.log(`Publish selanjutnya dalam ${delay / 1000} detik`);
     setTimeout(publishWithDelay, delay);
   });
 }
