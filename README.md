@@ -4,6 +4,6 @@ Ini adalah script Node.js yang bisa auto ganti nama package dalam file `package.
 # Cara Penggunaan
 1. Download script diatas lalu taro di direktori folder
 2. Buka terminal/cmd di dalam direktori folder
-3. Jalankan scriptnya dengan cara 'node autopublish.js'
-4. Tunggu proses sampai selesai
+3. Run scriptnya dengan cara 'node autopublish.js'
+4. Tunggu prosesnya sampai selesai
 5. Jika ingin stop scriptnya bisa dengan pencet CTRL+C di terminal/cmd
